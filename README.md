@@ -1,6 +1,6 @@
 # trabalho-i.a
 
-Jogos clássicos de jogo da velha, campo minado e snake sendo resolvidos por 3 algoritmos e agentes diferentes.
+Jogos clássicos com objetivos que diferem entre si como jogo da velha, campo minado e snake sendo resolvidos por 3 algoritmos e agentes diferentes.
 
 ## Requisitos para rodar o programa
 
